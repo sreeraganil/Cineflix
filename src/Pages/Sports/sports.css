@@ -1,0 +1,14 @@
+.sports-wrapper{
+    position: relative;
+    flex-grow: 1;   
+    resize: both;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.table-wrapper .islHeading{
+    color: #000;
+    text-align: center;
+    background-color: #ffffff;
+    outline: 1px solid rgb(214, 214, 214);
+}
